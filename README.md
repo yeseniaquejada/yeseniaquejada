@@ -13,3 +13,7 @@
 
 ## Habilidades
 ### mmmmmmmmmmmmmmmmmm
+
+## Participaciones
+1. Maratón de programación, vivero del software
+
