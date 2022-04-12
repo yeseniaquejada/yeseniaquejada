@@ -1,6 +1,6 @@
 # Portafolio
 ## Presentación :sparkles:
-#### Mi nombre es Yesenia Quejada Rojas :smiley: tengo 18 años, soy de la ciudad de Medellín, graduada de la promoción 2020 soy bachiller técnico en especialidad: TIC de la Institución Educativa Diego Echavarría Misas, curse y aprobé los módulos en la formación técnica en desarrollo de software articulada con el PJIC, estuve como estudiante becada en Academia geek como Desarrolladora web Front-end y Actualmente estudio en el Sena un tecnólogo en análisis y desarrollo de sistemas de información :computer: :dash: 
+#### Mi nombre es Yesenia Quejada Rojas :smiley: tengo 18 años, soy de la ciudad de Medellín, graduada de la promoción 2020 soy bachiller técnico en especialidad: TIC de la Institución Educativa Diego Echavarría Misas, curse y aprobé los módulos en la formación técnica en desarrollo de software articulada con el PJIC, estuve como estudiante becada en Academia geek como Desarrolladora web Front-end y actualmente estudio en el Sena un tecnólogo en análisis y desarrollo de sistemas de información :computer: :dash: 
 
 ## Aprendizajes :sparkles:
 #### 1. HTML
