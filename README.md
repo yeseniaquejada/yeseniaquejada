@@ -6,7 +6,7 @@
 #### 1. HTML
 #### 2. CSS 
 #### 3. JavaScript
-#### 4. MySQL
+#### 4. C#
 
 
 ## Interesés :sparkles:
@@ -18,4 +18,5 @@
 
 ## Participaciones :sparkles:
 #### 1. Maratón de programación, vivero del software.
+#### 2. ONE Oracle Next Education (Alura Latam).
 
