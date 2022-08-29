@@ -6,8 +6,6 @@
 #### 1. HTML
 #### 2. CSS 
 #### 3. JavaScript
-#### 4. C#
-
 
 ## Interesés :sparkles:
 #### Me apasionan los retos, las tecnologías, la resolución de problemas, el diseño, las matemáticas, las páginas web, los lenguajes de programación y muchos otros temas que estan encaminados hacia el desarrollo de software.
